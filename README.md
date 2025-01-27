@@ -4,9 +4,15 @@ _A comprehensive repository to learn and practice Flask by exploring various fun
 ## **About This Repository**  
 
 <p align="justify">
-  This repository is a collection of Flask scripts that I’ve created while learning Flask. It covers a wide array of concepts, ranging from the basics to advanced features, to help you gain hands-on experience with the Flask web framework.  
+  This repository is a collection of Flask scripts that I’ve created while learning Flask. It covers a wide array of concepts, ranging from the basics to advanced features, to help you gain hands-on experience 
+  with the Flask web framework.  
   
-  Each topic is organized and well-documented, making it easy for anyone to follow and understand. Whether you’re a beginner or an intermediate learner, this repository is designed to be your one-stop resource for mastering Flask.
+  Each topic is organized and well-documented, making it easy for anyone to follow and understand. Whether you’re a beginner or an intermediate learner, this repository is designed to be your one-stop resource 
+  for mastering Flask.
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/tvnriz5.png" alt="Flask" width="900" height="300">
 </p>
 
 ---
