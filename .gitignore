@@ -1,0 +1,30 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables and sensitive files
+instance/
+
+# Virtual environment
+.venv/
+
+# Logs and debugging
+*.log
+*.debug
+
+# Database files
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-related files
+.vscode/
+.idea/
+
+# Byte-compiled and package files
+*.egg
+*.egg-info/
+dist/
+build/
