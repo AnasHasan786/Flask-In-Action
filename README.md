@@ -60,7 +60,6 @@ pip install -r requirements.txt
 Flask-In-Action/
 │
 ├── blog/                # Contains a demo blog app for exploring Blueprints and views
-├── instance/            # Stores instance-specific files (e.g., configurations)
 ├── templates/           # HTML templates for rendering
 ├── uploads/             # Directory for file uploads (e.g., images, documents)
 ├── user/                # User-related functionalities (authentication, sessions, etc.)
